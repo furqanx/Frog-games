@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=KoinI
+comment0.text=\r\n\ SubClass\ KoinI\ extending\ Koin\r\n\r\n\ @author\ Furqan\ Al\ Ghifari\ Zulva\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=KoinI()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Katak\r\n
+comment2.params=nilai
+comment2.target=KoinI(int)
+comment2.text=\r\n\ @param\ nilai\ \r\n
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MainLompatKatak
+comment0.text=\r\n\ Class\ where\ the\ Game\ running\ and\ the\ classes\ are\ being\ implemented\r\n\ The\ Class\ consist\ of\ 3\ level.\ if\ the\ game\ is\ over,\ player\ can\ choose\ \r\n\ whether\ want\ to\ replay\ again\ or\ not.\ \ \r\n\r\n\ Here,\ i'm\ implementing\ \:\r\n\ -\ Exception\r\n\ -\ Generics\r\n\ -\ Inheritance\r\n\ -\ Collection\r\n\ -\ Annotation\ \r\n\ \r\n\ @author\ Furqan\ Al\ Ghifari\ Zulva\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ mainkan()
+comment1.text=\r\n\ Contain\ the\ algorithm\ for\ the\ game\ \r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
